@@ -24,7 +24,7 @@ Proje, WhatsApp Web üzerinden gelen mesajları okuyarak Mi Box’a ADB komutlar
 - ChromeDriver: Chrome sürümüne uyumlu (otomatik olarak webdriver_manager ile yüklenir)
 
 ## Demo Videosu:
-    [Demo Videosu](https://drive.google.com/file/d/1xTIwAKVa6_yCdDBL-jfG8JQPsYypZuSN/view?usp=sharing)
+    https://drive.google.com/file/d/1xTIwAKVa6_yCdDBL-jfG8JQPsYypZuSN/view?usp=sharing
 
 ## Kurulum Adımları
 - Python Kurulumu: Python yüklü değilse, [Python resmi sitesinden](https://www.python.org/downloads/) indirip kurun.
